@@ -1,0 +1,564 @@
+Podstatne jmeno
+die? Schuldgefühle
+die Schuldgefühlen
+#################
+Podstatne jmeno
+die? Chance
+die Chancen
+#################
+Podstatne jmeno
+das Zeit
+die Zeit-(vyhledat)
+#################
+Podstatne jmeno
+? Arsch
+VYHLEDAT
+#################
+Podstatne jmeno
+der? Ellbogen
+die Ellbogen
+#################
+Podstatne jmeno
+das Gesicht
+die Gesicht-(vyhledat)
+#################
+Podstatne jmeno
+? Punkt
+VYHLEDAT
+#################
+Podstatne jmeno
+? Sieg
+VYHLEDAT
+#################
+Podstatne jmeno
+das? Geld
+die Geld-(vyhledat)
+#################
+Podstatne jmeno
+der Mentor
+die Mentoren
+#################
+Podstatne jmeno
+der? Vater
+die Vater
+#################
+Podstatne jmeno
+? Schuld
+VYHLEDAT
+#################
+Podstatne jmeno
+die? Ende
+die Enden
+#################
+Podstatne jmeno
+die? Schwäche
+die Schwächen
+#################
+Podstatne jmeno
+? Fruend
+VYHLEDAT
+#################
+Podstatne jmeno
+die Serie
+die Serien
+#################
+Podstatne jmeno
+? Sport
+VYHLEDAT
+#################
+Podstatne jmeno
+? Schlag
+VYHLEDAT
+#################
+Podstatne jmeno
+? Tritt
+VYHLEDAT
+#################
+Podstatne jmeno
+die Tradition
+die Traditionen
+#################
+Podstatne jmeno
+? Zukunft
+VYHLEDAT
+#################
+Podstatne jmeno
+die? Maschine
+die Maschinen
+#################
+Podstatne jmeno
+? Kind
+VYHLEDAT
+#################
+Podstatne jmeno
+der? Lehrer
+die Lehrer
+#################
+Podstatne jmeno
+die Ära
+die Äras
+#################
+Podstatne jmeno
+? Mensch
+VYHLEDAT
+#################
+Podstatne jmeno
+die? Quelle
+die Quellen
+#################
+Podstatne jmeno
+? Pool
+VYHLEDAT
+#################
+Podstatne jmeno
+der? Wunder
+die Wunder
+#################
+Podstatne jmeno
+? Chef
+VYHLEDAT
+#################
+Podstatne jmeno
+die Bedrohung
+die Bedrohungen
+#################
+Podstatne jmeno
+der Knast
+die Knast-(vyhledat)
+#################
+Podstatne jmeno
+die? Sorge
+die Sorgen
+#################
+Podstatne jmeno
+der? Sommer
+die Sommer
+#################
+Podstatne jmeno
+die? Hilfe
+die Hilfen
+#################
+Podstatne jmeno
+? Empfang
+VYHLEDAT
+#################
+Podstatne jmeno
+? Rucksack
+VYHLEDAT
+#################
+Podstatne jmeno
+die Belohung
+die Belohungen
+#################
+Podstatne jmeno
+der? Monster
+die Monster
+#################
+Podstatne jmeno
+die? Sache
+die Sachen
+#################
+Podstatne jmeno
+die Süsskeit
+die Süsskeiten
+#################
+Podstatne jmeno
+das? Geschenk
+die Geschenk-(vyhledat)
+#################
+Podstatne jmeno
+der? Ziel
+die Ziel
+#################
+Podstatne jmeno
+? Platz
+VYHLEDAT
+#################
+Podstatne jmeno
+? Rest
+VYHLEDAT
+#################
+Podstatne jmeno
+das? Gefahr
+die Gefahr-(vyhledat)
+#################
+Podstatne jmeno
+? Kampf
+VYHLEDAT
+#################
+Podstatne jmeno
+die? Junge
+die Jungen
+#################
+Podstatne jmeno
+der? Mutter
+die Mutter
+#################
+Podstatne jmeno
+? Antwort
+VYHLEDAT
+#################
+Podstatne jmeno
+die Drama
+die Dramas
+#################
+Podstatne jmeno
+die Beziehung
+die Beziehungen
+#################
+Podstatne jmeno
+die Schwierigkeit
+die Schwierigkeiten
+#################
+Podstatne jmeno
+der Haus
+dien?
+#################
+Podstatne jmeno
+das? Plan
+die Plan-(vyhledat)
+#################
+Podstatne jmeno
+? Gott
+VYHLEDAT
+#################
+Podstatne jmeno
+das? Foto
+die Fotos
+#################
+Podstatne jmeno
+der? Fehler
+die Fehler
+#################
+Podstatne jmeno
+der Bus
+den?
+#################
+Podstatne jmeno
+die Achtung
+die Achtungen
+#################
+Podstatne jmeno
+? Mann
+VYHLEDAT
+#################
+Podstatne jmeno
+die Konkurrenz
+die Konkurrenz-(vyhledat)
+#################
+Podstatne jmeno
+die Lösung
+die Lösungen
+#################
+Podstatne jmeno
+? Kopf
+VYHLEDAT
+#################
+Podstatne jmeno
+die? Schritte
+die Schritten
+#################
+Podstatne jmeno
+die Oma
+die Omas
+#################
+Podstatne jmeno
+die? Aufgabe
+die Aufgaben
+#################
+Podstatne jmeno
+die? Wage
+die Wagen
+#################
+Podstatne jmeno
+? Schrott
+VYHLEDAT
+#################
+Podstatne jmeno
+die? Diebe
+die Dieben
+#################
+Podstatne jmeno
+die? Panne
+die Pannen
+#################
+Podstatne jmeno
+? Sohn
+VYHLEDAT
+#################
+Podstatne jmeno
+die? Schlage
+die Schlagen
+#################
+Podstatne jmeno
+der? Onkel
+die Onkel
+#################
+Podstatne jmeno
+? Krieg
+VYHLEDAT
+#################
+Podstatne jmeno
+der? Meister
+die Meister
+#################
+Podstatne jmeno
+das Stil
+die Stil-(vyhledat)
+#################
+Podstatne jmeno
+die Täuschung
+die Täuschungen
+#################
+Podstatne jmeno
+die? Ehre
+die Ehren
+#################
+Podstatne jmeno
+die? Gnade
+die Gnaden
+#################
+Podstatne jmeno
+der? Schüler
+die Schüler
+#################
+Podstatne jmeno
+die? Angriffe
+die Angriffen
+#################
+Podstatne jmeno
+die? Stunde
+die Stunden
+#################
+Podstatne jmeno
+die? Idee
+die Ideen
+#################
+Podstatne jmeno
+die? Adresse
+die Adressen
+#################
+Podstatne jmeno
+das? Brett
+die Brett-(vyhledat)
+#################
+Podstatne jmeno
+das? Akzent
+die Akzent-(vyhledat)
+#################
+Podstatne jmeno
+? Glück
+VYHLEDAT
+#################
+Podstatne jmeno
+? Held
+VYHLEDAT
+#################
+Podstatne jmeno
+das? Gefühl
+die Gefühl-(vyhledat)
+#################
+Podstatne jmeno
+die? Fremde
+die Fremden
+#################
+Podstatne jmeno
+die Familie
+die Familien
+#################
+Podstatne jmeno
+die? Katastrophe
+die Katastrophen
+#################
+Podstatne jmeno
+? Ausland
+VYHLEDAT
+#################
+Podstatne jmeno
+die? Geschichte
+die Geschichten
+#################
+Podstatne jmeno
+? Problem
+VYHLEDAT
+#################
+Podstatne jmeno
+? Anfang
+VYHLEDAT
+#################
+Podstatne jmeno
+das Arbeit
+die Arbeit-(vyhledat)
+#################
+Podstatne jmeno
+? Faust
+VYHLEDAT
+#################
+Podstatne jmeno
+? Zeug
+VYHLEDAT
+#################
+Podstatne jmeno
+? Schmerz
+VYHLEDAT
+#################
+Podstatne jmeno
+das? Geist
+die Geist-(vyhledat)
+#################
+Podstatne jmeno
+? Hand
+VYHLEDAT
+#################
+Podstatne jmeno
+der? Kissen
+die Kissen
+#################
+Podstatne jmeno
+die? Feiglinge
+die Feiglingen
+#################
+Podstatne jmeno
+die Vergangheit
+die Vergangheiten
+#################
+Podstatne jmeno
+das Baum
+dien?
+#################
+Podstatne jmeno
+die? Reflexe
+die Reflexen
+#################
+Podstatne jmeno
+? Kunst
+VYHLEDAT
+#################
+Podstatne jmeno
+die? Idee
+die Ideen
+#################
+Podstatne jmeno
+? Grund
+VYHLEDAT
+#################
+Podstatne jmeno
+? Besuch
+VYHLEDAT
+#################
+Podstatne jmeno
+? Mund
+VYHLEDAT
+#################
+Podstatne jmeno
+? Abend
+VYHLEDAT
+#################
+Podstatne jmeno
+die Verbindung
+die Verbindungen
+#################
+Podstatne jmeno
+? Betrug
+VYHLEDAT
+#################
+Podstatne jmeno
+die Aktion
+die Aktionen
+#################
+Podstatne jmeno
+der? Titel
+die Titel
+#################
+Podstatne jmeno
+die? Runde
+die Runden
+#################
+Podstatne jmeno
+? Feind
+VYHLEDAT
+#################
+Podstatne jmeno
+? Zweck
+VYHLEDAT
+#################
+Podstatne jmeno
+die Feigheit
+die Feigheiten
+#################
+Podstatne jmeno
+das Licht
+die Licht-(vyhledat)
+#################
+Podstatne jmeno
+das? Heimat
+die Heimat-(vyhledat)
+#################
+Podstatne jmeno
+die? Ruhe
+die Ruhen
+#################
+Podstatne jmeno
+der? Bewerder
+die Bewerder
+#################
+Podstatne jmeno
+die? Leute
+die Leuten
+#################
+Podstatne jmeno
+? Rezept
+VYHLEDAT
+#################
+Podstatne jmeno
+die Rivalität
+die Rivalitäten
+#################
+Podstatne jmeno
+? Blitz
+VYHLEDAT
+#################
+Podstatne jmeno
+? Schwert
+VYHLEDAT
+#################
+Podstatne jmeno
+? Wort
+VYHLEDAT
+#################
+Podstatne jmeno
+der? Nummer
+die Nummer
+#################
+Podstatne jmeno
+? Welt
+VYHLEDAT
+#################
+Podstatne jmeno
+die? Kaffee
+die Kaffeen
+#################
+Podstatne jmeno
+das Wochen
+die Wochen
+#################
+Podstatne jmeno
+? Preis
+VYHLEDAT
+#################
+Podstatne jmeno
+die? Rage
+die Ragen
+#################
+Podstatne jmeno
+der? Hunger
+die Hunger
+#################
+Podstatne jmeno
+die Chemie
+die Chemien
+#################
+Podstatne jmeno
+? Glas
+VYHLEDAT
+#################

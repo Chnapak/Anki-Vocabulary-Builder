@@ -1,0 +1,15 @@
+C:\Users\matej\source\repos\AnkiVocabBuilder\AnkiVocabBuilder\bin\Debug\net7.0\AnkiVocabBuilder.exe
+C:\Users\matej\source\repos\AnkiVocabBuilder\AnkiVocabBuilder\bin\Debug\net7.0\AnkiVocabBuilder.deps.json
+C:\Users\matej\source\repos\AnkiVocabBuilder\AnkiVocabBuilder\bin\Debug\net7.0\AnkiVocabBuilder.runtimeconfig.json
+C:\Users\matej\source\repos\AnkiVocabBuilder\AnkiVocabBuilder\bin\Debug\net7.0\AnkiVocabBuilder.dll
+C:\Users\matej\source\repos\AnkiVocabBuilder\AnkiVocabBuilder\bin\Debug\net7.0\AnkiVocabBuilder.pdb
+C:\Users\matej\source\repos\AnkiVocabBuilder\AnkiVocabBuilder\obj\Debug\net7.0\AnkiVocabBuilder.csproj.AssemblyReference.cache
+C:\Users\matej\source\repos\AnkiVocabBuilder\AnkiVocabBuilder\obj\Debug\net7.0\AnkiVocabBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\source\repos\AnkiVocabBuilder\AnkiVocabBuilder\obj\Debug\net7.0\AnkiVocabBuilder.AssemblyInfoInputs.cache
+C:\Users\matej\source\repos\AnkiVocabBuilder\AnkiVocabBuilder\obj\Debug\net7.0\AnkiVocabBuilder.AssemblyInfo.cs
+C:\Users\matej\source\repos\AnkiVocabBuilder\AnkiVocabBuilder\obj\Debug\net7.0\AnkiVocabBuilder.csproj.CoreCompileInputs.cache
+C:\Users\matej\source\repos\AnkiVocabBuilder\AnkiVocabBuilder\obj\Debug\net7.0\AnkiVocabBuilder.dll
+C:\Users\matej\source\repos\AnkiVocabBuilder\AnkiVocabBuilder\obj\Debug\net7.0\refint\AnkiVocabBuilder.dll
+C:\Users\matej\source\repos\AnkiVocabBuilder\AnkiVocabBuilder\obj\Debug\net7.0\AnkiVocabBuilder.pdb
+C:\Users\matej\source\repos\AnkiVocabBuilder\AnkiVocabBuilder\obj\Debug\net7.0\AnkiVocabBuilder.genruntimeconfig.cache
+C:\Users\matej\source\repos\AnkiVocabBuilder\AnkiVocabBuilder\obj\Debug\net7.0\ref\AnkiVocabBuilder.dll
