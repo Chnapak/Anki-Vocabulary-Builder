@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AQFee1NrTN8gJVbqRS85zFFbURJBN4i9zr75dNhPfWn4in5BN/V7XG5ciA+ZORvVJvCCsOUYH7kEKQ53g9udqQ==",
+  "dgSpecHash": "JYlUll5maDksbcfi8zu/d/ZDQUM2xzF/j7aZDENAon56XuVirUVnzb7Oq7XSagICedwtSWGc8u3weXHku0cfnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matej\\source\\repos\\AnkiVocabBuilder\\AnkiVocabBuilder\\AnkiVocabBuilder.csproj",
+  "projectFilePath": "C:\\Users\\matej\\source\\repos\\C#Practice\\AnkiVocabBuilder\\AnkiVocabBuilder\\AnkiVocabBuilder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnkiVocabBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e91a55b7d9cc0abf24f1230047e771f7f4ac8fb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnkiVocabBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnkiVocabBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

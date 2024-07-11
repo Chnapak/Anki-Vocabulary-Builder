@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matej\\source\\repos\\AnkiVocabBuilder\\AnkiVocabBuilder\\AnkiVocabBuilder.csproj": {}
+    "C:\\Users\\matej\\source\\repos\\C#Practice\\AnkiVocabBuilder\\AnkiVocabBuilder\\AnkiVocabBuilder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matej\\source\\repos\\AnkiVocabBuilder\\AnkiVocabBuilder\\AnkiVocabBuilder.csproj": {
+    "C:\\Users\\matej\\source\\repos\\C#Practice\\AnkiVocabBuilder\\AnkiVocabBuilder\\AnkiVocabBuilder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matej\\source\\repos\\AnkiVocabBuilder\\AnkiVocabBuilder\\AnkiVocabBuilder.csproj",
+        "projectUniqueName": "C:\\Users\\matej\\source\\repos\\C#Practice\\AnkiVocabBuilder\\AnkiVocabBuilder\\AnkiVocabBuilder.csproj",
         "projectName": "AnkiVocabBuilder",
-        "projectPath": "C:\\Users\\matej\\source\\repos\\AnkiVocabBuilder\\AnkiVocabBuilder\\AnkiVocabBuilder.csproj",
+        "projectPath": "C:\\Users\\matej\\source\\repos\\C#Practice\\AnkiVocabBuilder\\AnkiVocabBuilder\\AnkiVocabBuilder.csproj",
         "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matej\\source\\repos\\AnkiVocabBuilder\\AnkiVocabBuilder\\obj\\",
+        "outputPath": "C:\\Users\\matej\\source\\repos\\C#Practice\\AnkiVocabBuilder\\AnkiVocabBuilder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matej\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
